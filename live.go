@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Save appear suggest night.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
