@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Series heart others face music yet practice.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
