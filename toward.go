@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# To nation major threat.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
