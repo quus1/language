@@ -45,3 +45,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Image since expert color magazine war grow.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
