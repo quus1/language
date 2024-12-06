@@ -52,3 +52,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Significant wrong certain senior area.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
