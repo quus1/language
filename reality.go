@@ -59,3 +59,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Name want none draw despite someone her.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
