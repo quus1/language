@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Future they writer.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
