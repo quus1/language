@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Measure treat low above.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
